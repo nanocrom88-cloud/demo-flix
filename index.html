@@ -1,0 +1,632 @@
+﻿<!DOCTYPE html><html><head>
+        <!-- Google tag (gtag.js) -->
+       
+        <meta charset="utf-8">
+        <title>1FMOVIE | Watch Movies And shows Online Free</title>
+        <!-- Trigger workflow deployment -->
+        <meta name="description" content="1FMOVIE is free tv shows streaming website with zero ads, it allows you watch tv shows online, watch tv shows online free in high quality for free. You can also download full tv shows and watch it later if you want.">
+        <meta charset="utf-8">
+        <meta name="robots" content="index, follow"> 
+        <meta name="revisit-after" content="1 days"> 
+        <link rel="canonical" href="https://1fmovie.com">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="1FMOVIE | Watch Movies And shows Online Free"> 
+        <meta property="og:description" content="1FMOVIE is free tv shows streaming website with zero ads, it allows you watch tv shows online, watch tv shows online free in high quality for free. You can also download full tv shows and watch it later if you want.">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <script>
+            // Set base path
+            (function() {
+                let basePath = window.location.pathname;
+                if (basePath.endsWith('/')) {
+                    basePath = basePath.slice(0, -1);
+                }
+                if (basePath === '/' || basePath === '') {
+                    basePath = '';
+                }
+                const baseTag = document.createElement('base');
+                baseTag.href = basePath ? basePath + '/' : '/';
+                document.head.insertBefore(baseTag, document.head.firstChild);
+            })();
+        </script>
+        <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+        <link rel="stylesheet" type="text/css" href="css/tooltipster.bundle.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com/">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""> 
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet"> 
+        <link href="css/bootstrap-icons.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/alldd31.css">
+        <link rel="stylesheet" href="css/search-dropdown.css">
+         <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RVRFEDM44R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RVRFEDM44R');
+</script>
+    </head> 
+    <body>
+        <div class="wrapper">
+            <header class="abs-head">
+                <div class="container">
+                    <div class="wrapper justify-content-between align-items-center">
+                        <div class="start"> 
+                            <div id="menu-toggler" style="display: none;"><i class="bi bi-list-nested"></i></div> 
+                            <div id="menu">
+                            </div>
+                                <a class="logo" href="https://1fmovie.com"><img src="images/logo.png" alt="1FMOVIE"> </a> 
+                            </div> 
+                       <div class="step">
+                            <div class="search-box">
+                            <button class="search-toggler"><i class="bi bi-search"></i></button>
+                            <div class="search-wrap">
+                                <form class="d-flex align-items-center" action="/" autocomplete="off">
+                                    <input type="text" placeholder="Search movies..." name="q" id="search-input">
+                                <button type="button"><i class="bi bi-search"></i></button>
+                                </form>
+                                <div class="search-suggestions" id="search-suggestions">
+                                    <!-- Search results will be loaded here -->
+                                </div>
+                        <div class="suggestions"></div>
+                    </div>
+                </div>
+                        </div>                            <div class="end"> 
+                            <div id="user"></div> 
+                        </div>
+                    </div> 
+                </div>          
+            </header>
+
+            <main> 
+                <div class="swiper" id="featured">
+                    <div class="swiper-wrapper" id="featured-swiper-wrapper">
+                        <!-- Slides will be loaded here dynamically -->
+                    </div>
+                    <div class="container">
+                        <div class="swiper-scrollbar"></div>
+                        <div class="slide-navi">
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                        </div>
+                    </div>
+                </div>
+                <script>
+                    // Helper to escape HTML
+                    function escapeHtml(text) {
+                        return text
+                            ? text.replace(/[&<>"']/g, function (m) {
+                                return ({
+                                    '&': '&amp;',
+                                    '<': '&lt;',
+                                    '>': '&gt;',
+                                    '"': '&quot;',
+                                    "'": '&#39;'
+                                })[m];
+                            })
+                            : '';
+                    }
+
+                    // Helper to get correct link for item
+                    function getItemLink(item) {
+                        // Get base path
+                        let basePath = window.location.pathname;
+                        // Remove trailing slash if present
+                        if (basePath.endsWith('/')) {
+                            basePath = basePath.slice(0, -1);
+                        }
+                        // If basePath is empty or just '/', use empty string for root
+                        if (basePath === '/' || basePath === '') {
+                            basePath = '';
+                        }
+                        // Check if item has seasonEpisodesVids (indicates it's a series)
+                        if (item.seasonEpisodesVids && item.seasonEpisodesVids.length > 0) {
+                            return `${basePath}/details.html?id=${item.id}&type=tv`;
+                        }
+                        // Otherwise it's a movie, redirect to details.html with movie type
+                        return `${basePath}/details.html?id=${item.id}&type=movie`;
+                    }
+
+                    // Helper to get correct type label for item
+                    function getItemType(item) {
+                        // Check if item has seasonEpisodesVids (indicates it's a series)
+                        if (item.seasonEpisodesVids && item.seasonEpisodesVids.length > 0) {
+                            return 'TV Show';
+                        }
+                        // Otherwise it's a movie
+                        return 'Movie';
+                    }
+
+                    // Single config fetch for all sections
+                    let basePath = window.location.pathname;
+                    // Remove trailing slash if present
+                    if (basePath.endsWith('/')) {
+                        basePath = basePath.slice(0, -1);
+                    }
+                    // If basePath is empty or just '/', use empty string for root
+                    if (basePath === '/' || basePath === '') {
+                        basePath = '';
+                    }
+                    fetch(`${basePath}/config.json`)
+                        .then(res => res.json())
+                        .then(config => {
+                            const { 
+                                Movies = [], 
+                                Series = [], 
+                                HomeSliderIds = [],
+                                TrendingNowIds = [],
+                                RecommendedIds = [],
+                                LatestIds = [],
+                                TopIds = [],
+                                MoviesUpdatedIds = []
+                            } = config;
+                            const all = [...Movies, ...Series];
+
+                            // Featured Slider
+                            const featuredSlides = HomeSliderIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const featuredWrapper = document.getElementById('featured-swiper-wrapper');
+                            featuredWrapper.innerHTML = featuredSlides.map(item => `
+                                <div class="swiper-slide" style="background-image: url('${escapeHtml(item.thumbnail)}')">
+                                    <div class="container">
+                                        <div class="slide-wrapper">
+                                            <div class="info">
+                                                <div class="start">
+                                                    <h2 class="name">${escapeHtml(item.title)}</h2>
+                                                    <div class="meta">
+                                                        <span class="quality">${escapeHtml(item.quality)}</span>
+                                                        <span class="rating">${escapeHtml(item.rating)}</span>
+                                                        <span>${escapeHtml(item.releaseDate)}</span>
+                                                        <span>${escapeHtml(item.duration)}</span>
+                                                        <span class="genres">
+                                                            <a href="#">${escapeHtml(item.genre)}</a>
+                                                        </span>
+                                                    </div>
+                                                    <div class="desc end">${escapeHtml(item.description)}</div>
+                                                </div>
+                                            </div>
+                                            <div class="actions">
+                                                <div class="start">
+                                                    <a href="${getItemLink(item)}" class="watchnow btn btn-lg btn-primary">
+                                                        <i class="bi bi-play-circle-fill"></i> Watch Now
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            `).join('');
+
+                            // Trending Section
+                            const trendingSlides = TrendingNowIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const trendingWrapper = document.getElementById('trending-swiper-wrapper');
+                            trendingWrapper.innerHTML = trendingSlides.map(item => `
+                                <div class="swiper-slide">
+                                    <a href="${getItemLink(item)}" style="background-image: url('${escapeHtml(item.thumbnail)}')">
+                                        <div class="title">${escapeHtml(item.title)}</div>
+                                        <div class="genre">
+                                            <span>${escapeHtml(item.genre)}</span>
+                                        </div>
+                                    </a>
+                                </div>
+                            `).join('');
+
+                            // Recommended Section
+                            const recommendedSlides = RecommendedIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const recommendedWrapper = document.getElementById('recommended-items');
+                            recommendedWrapper.innerHTML = recommendedSlides.map(item => `
+                                <div class="item">
+                                    <div class="quality">${escapeHtml(item.quality || 'HD')}</div>
+                                    <div class="poster">
+                                        <a href="${getItemLink(item)}" data-tip="">
+                                            <img class="lazyload" data-src="${escapeHtml(item.poster)}" alt="${escapeHtml(item.title)}">
+                                        </a>
+                                    </div>
+                                    <div class="meta">
+                                        <div>
+                                            <span>${escapeHtml(item.releaseDate)}</span>
+                                            <span class="type">${getItemType(item)}</span>
+                                            <span>${escapeHtml(item.duration)}</span>
+                                        </div>
+                                        <a href="${getItemLink(item)}">${escapeHtml(item.title)}</a>
+                                    </div>
+                                </div>
+                            `).join('');
+
+                            // Latest Movies Section
+                            const latestSlides = LatestIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const latestWrapper = document.getElementById('latest-items');
+                            latestWrapper.innerHTML = latestSlides.map(item => `
+                                <div class="item">
+                                    <div class="quality">${escapeHtml(item.quality || 'HD')}</div>
+                                    <div class="poster">
+                                        <a href="${getItemLink(item)}" data-tip="">
+                                            <img class="lazyload" data-src="${escapeHtml(item.poster)}" alt="${escapeHtml(item.title)}">
+                                        </a>
+                                    </div>
+                                    <div class="meta">
+                                        <div>
+                                            <span>${escapeHtml(item.releaseDate)}</span>
+                                            <span class="type">${getItemType(item)}</span>
+                                            <span>${escapeHtml(item.duration)}</span>
+                                        </div>
+                                        <a href="${getItemLink(item)}">${escapeHtml(item.title)}</a>
+                                    </div>
+                                </div>
+                            `).join('');
+
+                            // Top Section
+                            const topSlides = TopIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const topWrapper = document.getElementById('top-items');
+                            topWrapper.innerHTML = topSlides.map((item, idx) => `
+                                <a class="item" href="${getItemLink(item)}">
+                                    <span class="num">${idx + 1}</span>
+                                    <div class="poster">
+                                        <div>
+                                            <img class="lazyload" data-src="${escapeHtml(item.poster)}" alt="${escapeHtml(item.title)}">
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <div>
+                                            <span>${getItemType(item)}</span>
+                                            <span>${escapeHtml(item.releaseDate)}</span>
+                                            <span>${escapeHtml(item.duration)}</span>
+                                        </div>
+                                        <div class="name">${escapeHtml(item.title)}</div>
+                                    </div>
+                                </a>
+                            `).join('');
+
+                            // Movie Updated Section
+                            const updatedSlides = MoviesUpdatedIds.map(id => all.find(item => item.id == id)).filter(Boolean);
+                            const updatedWrapper = document.getElementById('movie-updated-items');
+                            updatedWrapper.innerHTML = updatedSlides.map(item => `
+                                <a class="item" href="${getItemLink(item)}">
+                                    <div class="poster">
+                                        <div>
+                                            <img class="lazyload" data-src="${escapeHtml(item.poster)}" alt="${escapeHtml(item.title)}">
+                                        </div>
+                                    </div>
+                                    <div class="info">
+                                        <div>
+                                            <span>${getItemType(item)}</span>
+                                            <span>${escapeHtml(item.releaseDate)}</span>
+                                            <span>${escapeHtml(item.duration)}</span>
+                                        </div>
+                                        <div class="name">${escapeHtml(item.title)}</div>
+                                    </div>
+                                </a>
+                            `).join('');
+
+                            // Initialize Swipers
+                            if (window.featuredSwiper) {
+                                window.featuredSwiper.update();
+                            } else {
+                                window.featuredSwiper = new Swiper('#featured', {
+                                    autoplay: {
+                                        delay: 17000,
+                                        disableOnInteraction: true,
+                                        pauseOnMouseEnter: true
+                                    },
+                                    pagination: {
+                                        el: ".featured-pagination",
+                                        type: "fraction"
+                                    },
+                                    grabCursor: true,
+                                    scrollbar: {
+                                        el: '.swiper-scrollbar',
+                                    },
+                                    navigation: {
+                                        nextEl: '.swiper-button-next',
+                                        prevEl: '.swiper-button-prev',
+                                    },
+                                    notificationClass: 'swiper-notification'
+                                });
+                            }
+
+                            // Initialize trending swiper after DOM is ready
+                            setTimeout(function() {
+                                if (typeof Swiper !== 'undefined') {
+                                    if (window.trendingSwiper) {
+                                        window.trendingSwiper.destroy(true, true);
+                                    }
+                                    const trendingElement = document.querySelector('#trending .swiper');
+                                    if (trendingElement) {
+                                        window.trendingSwiper = new Swiper('#trending .swiper', {
+                                            grabCursor: true,
+                                            autoplay: {
+                                                delay: 17000,
+                                                disableOnInteraction: true,
+                                                pauseOnMouseEnter: true
+                                            },
+                                            pagination: {
+                                                el: ".trending-pagination",
+                                                type: "progressbar"
+                                            },
+                                            navigation: {
+                                                nextEl: ".trending-button-next",
+                                                prevEl: ".trending-button-prev"
+                                            },
+                                            slidesPerGroup: 768 <= window.innerWidth ? 2 : 1,
+                                            slidesPerView: "auto",
+                                        });
+                                    }
+                                }
+                            }, 100);
+                        });
+                </script>
+                
+                <section id="trending">
+                    <div class="container">
+                        <div class="head d-flex justify-content-center w-100 mb-4 pt-4">
+                            <h5><i class="bi bi-fire"></i> Trending Now <i class="bi bi-fire"></i></h5>
+                        </div>
+                        <div class="body">
+                            <div class="swiper">
+                                <div class="swiper-wrapper" id="trending-swiper-wrapper">
+                                    <!-- Slides will be loaded here dynamically -->
+                                </div>
+                            </div>
+                            <div class="trending-navi">
+                                <div class="trending-button-next"></div>
+                                <div class="trending-button-prev"></div>
+                            </div>
+                        </div>
+                        <div class="foot">
+                            <div class="trending-pagination"></div>
+                        </div>
+                    </div>
+                </section>
+        
+                <div class="container">
+                <div class="aside-wrapper home-page">
+                    <aside class="main"> 
+                        <section class="mt-5"> 
+                            <div class="head"> 
+                                <div class="start">
+                                    <h2 class="title"><i class="bi bi-file-play-fill"></i>Recommended</h2> 
+                                    <div class="tabs" data-tabs="" data-id="recommended" data-persist="true"></div> 
+                                </div>
+                            </div>
+                            <div class="tab-content" data-name="movies"> 
+                                <div class="movies items" id="recommended-items">
+                                    <!-- Recommended items will be loaded here dynamically -->
+                                </div>
+                            </div>
+                        </section>
+                        <!-------->
+                        <div class="mt-4"></div>
+                        <section class="mt-5"> 
+                            <div class="head">
+                                <div class="start">
+                                    <h2 class="title"><i class="bi bi-file-play-fill"></i>Latest Movies</h2> 
+                                </div> 
+                                
+                            </div> 
+                            <div class="movies items" id="latest-items">
+                                <!-- Latest items will be loaded here dynamically -->
+                            </div>
+                        </section>
+                        <!-------->
+                    </aside> 
+                    <aside class="sidebar"> 
+                            <section class="mb-5"> 
+                                <div class="head">
+                                    <div class="start"> 
+                                        <h2 class="title"><i class="bi bi-file-play-fill"></i>Top</h2>
+                                    </div>
+                                    <div class="end"></div>
+                                </div>
+                                <div class="body"> 
+                                    <div class="tab-content scaff top9 items" data-name="day" style="display:block" id="top-items">
+                                        <!-- Top items will be loaded here dynamically -->
+                                    </div> 
+                                </div>
+                            </section>
+                            <section class="mb-5"> 
+                                <div class="head"> 
+                                    <div class="start"> 
+                                        <h2 class="title"><i class="bi bi-file-play-fill"></i>Movie Updated</h2>
+                                    </div>
+                                </div> 
+                                <div class="body"> 
+                                    <div class="scaff top9 related items" id="movie-updated-items">
+                                        <!-- Movie Updated items will be loaded here dynamically -->
+                                    </div>             
+                                </div> 
+                            </section>
+                    </aside>
+                </div> 
+                </div>
+            </main> 
+            <footer> 
+                <div class="container" style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+                    <div class="head" style="width: 100%; display: flex; flex-direction: column; align-items: center;">
+                        <div class="start"></div>
+                        <div class="end" style="display: flex; flex-direction: column; align-items: center;">
+                            <div class="logo" style="margin-bottom: 16px;">
+ <a href="https://1fmovie.com" title="1FMOVIE">
+                                    <img src="images/logo.png" alt="1FMOVIE">
+                                </a>
+                                                        </div>
+                            <div class="abs" style="max-width: 600px;">
+                                <div>
+                                    1FMOVIE is top of free streaming website, where to watch movies online free without registration required. With a big database and great features, we're confident 1FMOVIE is the best free movies online website in the space that you can't simply miss!
+                                </div>
+                                <div class="bottom-text" style="margin-top: 12px;">
+                                    This site does not store any files on our server, we only linked to the media which is hosted on 3rd party services.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>         
+        </div>
+        
+    <script type="text/javascript" src="js/lazysizes.min.js"></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+    <script type="text/javascript" src="js/swiper.min.js"></script>
+    <script type="text/javascript" src="js/tooltipster.bundle.min.js"></script>
+    
+    <!-- Search Toggle Functionality -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const searchToggler = document.querySelector('.search-toggler');
+            const searchWrap = document.querySelector('.search-wrap');
+            const searchInput = document.getElementById('search-input');
+            const searchSuggestions = document.getElementById('search-suggestions');
+            let allItems = [];
+            let searchTimeout;
+            
+            // Load all items from config
+            let basePath = window.location.pathname;
+            // Remove trailing slash if present
+            if (basePath.endsWith('/')) {
+                basePath = basePath.slice(0, -1);
+            }
+            // If basePath is empty or just '/', use empty string for root
+            if (basePath === '/' || basePath === '') {
+                basePath = '';
+            }
+            fetch(`${basePath}/config.json`)
+                .then(res => res.json())
+                .then(config => {
+                    const { Movies = [], Series = [] } = config;
+                    allItems = [...Movies, ...Series];
+                })
+                .catch(err => console.error('Error loading config:', err));
+            
+            if (searchToggler && searchWrap) {
+                searchToggler.addEventListener('click', function() {
+                    searchWrap.classList.toggle('toggled');
+                    
+                    // Focus on the search input when opened
+                    if (searchWrap.classList.contains('toggled')) {
+                        setTimeout(() => {
+                            searchInput.focus();
+                        }, 100);
+                    } else {
+                        // Hide suggestions when closing search
+                        searchSuggestions.classList.remove('show');
+                    }
+                });
+                
+                // Search functionality
+                if (searchInput) {
+                    searchInput.addEventListener('input', function() {
+                        const query = this.value.trim();
+                        
+                        // Clear previous timeout
+                        if (searchTimeout) {
+                            clearTimeout(searchTimeout);
+                        }
+                        
+                        if (query.length < 2) {
+                            searchSuggestions.classList.remove('show');
+                            return;
+                        }
+                        
+                        // Show loading
+                        searchSuggestions.innerHTML = '<div class="loading">Searching...</div>';
+                        searchSuggestions.classList.add('show');
+                        
+                        // Debounce search
+                        searchTimeout = setTimeout(() => {
+                            performSearch(query);
+                        }, 300);
+                    });
+                    
+                    // Show dropdown when search is opened
+                    searchInput.addEventListener('focus', function() {
+                        if (this.value.trim().length >= 2) {
+                            searchSuggestions.classList.add('show');
+                        }
+                    });
+                    
+                    // Handle keyboard navigation
+                    searchInput.addEventListener('keydown', function(e) {
+                        if (e.key === 'Escape') {
+                            searchWrap.classList.remove('toggled');
+                            searchSuggestions.classList.remove('show');
+                        }
+                    });
+                }
+                
+                // Close search when clicking outside
+                document.addEventListener('click', function(e) {
+                    if (!searchWrap.contains(e.target) && !searchToggler.contains(e.target)) {
+                        searchWrap.classList.remove('toggled');
+                        searchSuggestions.classList.remove('show');
+                    }
+                });
+                
+                // Close search when pressing Escape key
+                document.addEventListener('keydown', function(e) {
+                    if (e.key === 'Escape' && searchWrap.classList.contains('toggled')) {
+                        searchWrap.classList.remove('toggled');
+                        searchSuggestions.classList.remove('show');
+                    }
+                });
+            }
+            
+            // Search function
+            function performSearch(query) {
+                const results = allItems.filter(item => {
+                    const title = item.title.toLowerCase();
+                    const searchQuery = query.toLowerCase();
+                    return title.includes(searchQuery);
+                }).slice(0, 10); // Limit to 10 results
+                
+                if (results.length === 0) {
+                    searchSuggestions.innerHTML = '<div class="no-results">No results found</div>';
+                } else {
+                    searchSuggestions.innerHTML = results.map(item => {
+                        const type = item.seasonEpisodesVids && item.seasonEpisodesVids.length > 0 ? 'Tv' : 'Movie';
+                        const year = item.releaseDate ? new Date(item.releaseDate).getFullYear() : '';
+                        const rating = item.rating ? parseFloat(item.rating).toFixed(3) : '0.000';
+                        const duration = item.duration ? `${item.duration} min` : '';
+                        
+                        return `
+                            <div class="search-item" onclick="window.location.href='${getItemLink(item)}'">
+                                <img src="${item.thumbnail}" alt="${item.title}" class="thumbnail" loading="lazy">
+                                <div class="content">
+                                    <div class="title">${item.title}</div>
+                                    <div class="meta">
+                                        <span class="type">${type}</span>
+                                        <span class="year">${year}</span>
+                                        <span class="rating">Ôÿà ${rating}</span>
+                                        <span class="duration">${duration}</span>
+                                    </div>
+                                </div>
+                            </div>
+                        `;
+                    }).join('');
+                }
+            }
+            
+            // Helper function to get correct link for item
+            function getItemLink(item) {
+                let basePath = window.location.pathname;
+                // Remove trailing slash if present
+                if (basePath.endsWith('/')) {
+                    basePath = basePath.slice(0, -1);
+                }
+                // If basePath is empty or just '/', use empty string for root
+                if (basePath === '/' || basePath === '') {
+                    basePath = '';
+                }
+                if (item.seasonEpisodesVids && item.seasonEpisodesVids.length > 0) {
+                    return `${basePath}/details.html?id=${item.id}&type=tv`;
+                }
+                return `${basePath}/details.html?id=${item.id}&type=movie`;
+            }
+        });
+    </script>
+        
+    
+ 
+     
+</body></html>
+

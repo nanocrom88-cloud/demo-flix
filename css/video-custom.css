@@ -1,0 +1,37 @@
+/* Hide the three dots menu and related controls */
+.vjs-control-bar > .vjs-menu-button,
+.vjs-control-bar > .vjs-playback-rate,
+.vjs-control-bar > .vjs-picture-in-picture-control,
+.vjs-control-bar > button[class*="vjs"][class*="control"],
+.vjs-control-bar > .vjs-remaining-time,
+.vjs-button.vjs-settings-menu,
+.vjs-settings-menu-button,
+.vjs-quality-selector,
+.vjs-playback-rate-value,
+.vjs-settings-button,
+.vjs-menu-button-popup,
+.vjs-texttrack-settings,
+.vjs-subs-caps-button,
+.vjs-chapters-button,
+.vjs-descriptions-button,
+.vjs-audio-button,
+.vjs-more-options-button {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+/* Only show essential controls */
+.vjs-control-bar > .vjs-play-control,
+.vjs-control-bar > .vjs-current-time,
+.vjs-control-bar > .vjs-time-divider,
+.vjs-control-bar > .vjs-duration,
+.vjs-control-bar > .vjs-progress-control,
+.vjs-control-bar > .vjs-volume-panel,
+.vjs-control-bar > .vjs-fullscreen-control {
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    pointer-events: auto !important;
+}
