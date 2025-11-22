@@ -354,6 +354,32 @@
 				"https://videos-9ds.pages.dev/the-summer-i-turned-pretty-45min.mp4",
 				"https://videos-9ds.pages.dev/the-summer-i-turned-pretty-45min.mp4"
 			]
+		},
+		{
+			"id": 66732,
+			"title": "Stranger Things",
+			"description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+			"poster": "https://image.tmdb.org/t/p/w342/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.6",
+			"genre": "Sci-Fi & Fantasy, Mystery, Action & Adventure",
+			"releaseDate": "2016",
+			"director": "Ross Duffer",
+			"cast": "Millie Bobby Brown, Finn Wolfhard, Noah Schnapp, Gaten Matarazzo, Caleb McLaughlin, Sadie Sink",
+			"production": "21 Laps Entertainment",
+			"season": "season 5",
+			"seasonEpisodesVids": [
+				"vidLink",
+				"vidLink",
+				"vidLink",
+				"vidLink",
+				"vidLink",
+				"vidLink",
+				"vidLink",
+				"vidLink"
+			]
 		}
 	],
 	"HomeSliderIds": [
