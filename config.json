@@ -223,6 +223,22 @@
 			"cast": "Elle Fanning, Dimitrius Schuster-Koloamatangi, Rohinal Nayaran, Michael Homick, Stefan Grube, Reuben De Jong",
 			"production": "20th Century Studios",
 			"vidLink": "https://goflixo.com/movie/universal-96min.mp4"
+		},
+		{
+			"id": 1429520,
+			"title": "Sidelined 2: Intercepted",
+			"description": "Freshman star quarterback Drayton struggles with the weight of expectations after a devastating setback, while dancer Dallas begins to question the future she thought she wanted. As their high school relationship begins to unravel under the pressures of distance and self-discovery, they’ll learn that the bravest versions of themselves emerge when they let life redirect them.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/iMxWTPRqWJJKVW7KYBlmirSeazw.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/rdBS9IHET7X2dD2y3eS2D3o5g7b.jpg",
+			"quality": "4K",
+			"duration": "1h 40m",
+			"rating": "N/A",
+			"genre": "Romance, Comedy",
+			"releaseDate": "2025",
+			"director": "Justin Wu",
+			"cast": "Noah Beck, Siena Agudong, Drew Ray Tanner, James Van Der Beek, Charlie Gillespie, Roan Curtis",
+			"production": "Wattpad WEBTOON Studios",
+			"vidLink": "https://streamaio.com/1fmovie/tubi.mp4"
 		}
 	],
 	"Series": [
@@ -383,6 +399,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		1429520,
 		250670,
 		1242898,
 		94954,
@@ -402,6 +419,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		1429520,
 		250670,
 		1242898,
 		94954,
@@ -419,6 +437,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		1429520,
 		250670,
 		1242898,
 		66732,
