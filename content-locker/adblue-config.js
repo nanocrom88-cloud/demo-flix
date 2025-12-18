@@ -9,7 +9,7 @@ window.ADBLUE_CONFIG = {
     apiKey: 'cfe031daa224cb470f9d4c9a7a531982',
     offerFeedUrl: 'https://d1y3y09sav47f5.cloudfront.net/public/offers/feed.php',
     checkLeadsUrl: 'https://d1y3y09sav47f5.cloudfront.net/public/external/check2.php',
-    numOffers: 4,
+    numOffers: 3,
     requiredOffers: 2,
     checkInterval: 15000,
     testing: 0
