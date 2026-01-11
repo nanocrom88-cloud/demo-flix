@@ -380,6 +380,28 @@
 			]
 		},
 		{
+			"id": 117465,
+			"title": "Hell's Paradise",
+			"description": "For a chance at a pardon, a ninja assassin joins other condemned criminals on a journey to a mysterious island to retrieve an elixir of immortality.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/qvSTpPSuvJgqwzHeJjEB7SjaKOh.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/1V9I7SvZbYoMbSvdtnlkkq9SB1k.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.7",
+			"genre": "Animation, Comedy, Drama, Sci-Fi & Fantasy",
+			"releaseDate": "2026",
+			"director": "Vivienne Medrano",
+			"cast": "Stephanie Beatriz, Keith David, Kimiko Glenn, Erika Henningsen, Blake Roman, Amir Talai",
+			"production": "A24",
+			"season": "season 2",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/aniplexnew.mp4",
+				"https://popcima.com/images/aniplexnew.mp4",
+				"https://popcima.com/images/aniplexnew.mp4",
+				"https://popcima.com/images/aniplexnew.mp4"
+			]
+		},
+		{
 			"id": 250670,
 			"title": "Maxton Hall - The World Between Us",
 			"description": "When Ruby unwittingly witnesses an explosive secret at Maxton Hall private school, the arrogant millionaire heir James Beaufort has to deal with the quick-witted scholarship student for better or worse: He is determined to silence Ruby. Their passionate exchange of words unexpectedly ignites a spark...",
@@ -431,6 +453,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		117465,
 		83533,
 		1228246,
 		1429520,
@@ -453,6 +476,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		117465,
 		83533,
 		1228246,
 		1429520,
