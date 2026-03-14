@@ -453,6 +453,32 @@
 			]
 		},
 		{
+			"id": 111110,
+			"title": "ONE PIECE",
+			"description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 2",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
 			"id": 66732,
 			"title": "Stranger Things",
 			"description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -480,6 +506,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		111110,
 		241372,
 		117465,
 		83533,
@@ -504,6 +531,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		111110,
 		241372,
 		117465,
 		83533,
@@ -526,6 +554,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		111110,
 		241372,
 		117465,
 		83533,
@@ -552,6 +581,7 @@
 		1243341
 	],
 	"TopIds": [
+		111110,
 		250670,
 		1242898,
 		200875,
