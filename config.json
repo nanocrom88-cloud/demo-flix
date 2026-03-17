@@ -479,6 +479,32 @@
 			]
 		},
 		{
+			"id": 95557,
+			"title": "Invincible ",
+			"description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/vm37PI20mCKdkdXGRDgUupTTkXX.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 4",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4"
+			]
+		},
+		{
 			"id": 66732,
 			"title": "Stranger Things",
 			"description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
@@ -506,6 +532,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		95557,
 		111110,
 		241372,
 		117465,
@@ -531,6 +558,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		95557,
 		111110,
 		241372,
 		117465,
@@ -554,6 +582,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		95557,
 		111110,
 		241372,
 		117465,
