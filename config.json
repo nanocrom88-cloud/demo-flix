@@ -17,6 +17,38 @@
 			"vidLink": "https://videos-9ds.pages.dev/Universal.mp4"
 		},
 		{
+			"id": 875828,
+			"title": "Peaky Blinders: The Immortal Man",
+			"description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/wVs2jRKmoVxZPgPM53ppZwVVabn.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/mKSnqcEOpr2hUq7moF4bJVBGZcO.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2025",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/netflix.mp4"
+		},
+		{
+			"id": 1266127,
+			"title": "Ready or Not: Here I Come",
+			"description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/f7y4Y0eDFx5D4GvKjmEILN4taC9.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/p10hE46e5D6JIDepUE6KaTgLUjN.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2025",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/netflix.mp4"
+		},
+		{
 			"id": 83533,
 			"title": "Avatar: Fire and Ash ",
 			"description": " In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
@@ -532,6 +564,8 @@
 		}
 	],
 	"HomeSliderIds": [
+		875828,
+		1266127,
 		95557,
 		111110,
 		241372,
@@ -558,6 +592,8 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		875828,
+		1266127,
 		95557,
 		111110,
 		241372,
@@ -582,6 +618,8 @@
 		1243341
 	],
 	"RecommendedIds": [
+		875828,
+		1266127,
 		95557,
 		111110,
 		241372,
