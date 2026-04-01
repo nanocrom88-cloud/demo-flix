@@ -33,6 +33,22 @@
 			"vidLink": "https://popcima.com/images/netflix.mp4"
 		},
 		{
+			"id": 1523145,
+			"title": "Your Heart Will Be Broken",
+			"description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2025",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://oncima.com/fmovie/assets/video/prime.mp4"
+		},
+		{
 			"id": 1266127,
 			"title": "Ready or Not: Here I Come",
 			"description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
@@ -564,6 +580,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		1523145,
 		875828,
 		1266127,
 		95557,
@@ -592,6 +609,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		1523145,
 		875828,
 		1266127,
 		95557,
@@ -618,6 +636,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		1523145,
 		875828,
 		1266127,
 		95557,
