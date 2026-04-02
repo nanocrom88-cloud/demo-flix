@@ -379,6 +379,33 @@
 			]
 		},
 		{
+		
+			"id": 195670,
+			"title": "XO, Kitty",
+			"description": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realize that relationships are a lot more complicated when it's your own heart on the line.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/9Mk0LGEviUm3eat9aHEFXI6LOQT.jpg",
+			"poster": "https://m.media-amazon.com/images/M/MV5BNGNlYTVmNTktM2NkNi00ZGQyLWEwZTYtYjU4YzdiYjFiOWUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 1",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
 			"id": 240411,
 			"title": "Dan Da Dan",
 			"description": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
@@ -580,6 +607,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		195670,
 		1523145,
 		875828,
 		1266127,
@@ -609,6 +637,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		195670,
 		1523145,
 		875828,
 		1266127,
@@ -636,6 +665,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		195670,
 		1523145,
 		875828,
 		1266127,
