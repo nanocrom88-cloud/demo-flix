@@ -406,6 +406,33 @@
 			]
 		},
 		{
+		
+			"id": 260463,
+			"title": "Daemons of the Shadow Realm",
+			"description": " Yuru, a young hunter, lives in a small village deep in the mountains, hunting wild game and leading a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them?",
+			"thumbnail": "https://image.tmdb.org/t/p/original/aSnG7CDiVUkxhngsq6cL6baLuHH.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpgz",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 3",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
 			"id": 240411,
 			"title": "Dan Da Dan",
 			"description": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!",
@@ -607,6 +634,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		260463,
 		195670,
 		1523145,
 		875828,
@@ -637,6 +665,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		260463,
 		195670,
 		1523145,
 		875828,
@@ -665,6 +694,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		260463,
 		195670,
 		1523145,
 		875828,
