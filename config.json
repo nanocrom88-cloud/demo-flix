@@ -380,6 +380,33 @@
 		},
 		{
 		
+			"id": 202555,
+			"title": "Daredevil: Born Again ",
+			"description": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/sluu3iq8EdlRfwCwxtF7WUyuy0b.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 2",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
+		
 			"id": 195670,
 			"title": "XO, Kitty",
 			"description": "Teen matchmaker Kitty Song Covey thinks she knows everything there is to know about love. But when she moves halfway across the world to reunite with her long-distance boyfriend, she'll soon realize that relationships are a lot more complicated when it's your own heart on the line.",
@@ -661,6 +688,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		202555,
 		289219,
 		260463,
 		195670,
@@ -693,6 +721,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		202555,
 		289219,
 		260463,
 		195670,
@@ -723,6 +752,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		202555,
 		289219,
 		260463,
 		195670,
