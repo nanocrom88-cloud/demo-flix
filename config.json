@@ -407,6 +407,33 @@
 		},
 		{
 		
+			"id": 289219,
+			"title": "Star Wars: Maul - Shadow Lord ",
+			"description": "After the Clone Wars, Maul plots to rebuild his criminal syndicate on a planet untouched by the Empire.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/1j34kUhO92qg90JDKfyRrXonrJj.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/9iLO7hJ5YIpIjsBSZpbkX95MEAE.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 3",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4",
+				"https://popcima.com/images/disney.mp4"
+			]
+		},
+		{
+		
 			"id": 260463,
 			"title": "Daemons of the Shadow Realm",
 			"description": " Yuru, a young hunter, lives in a small village deep in the mountains, hunting wild game and leading a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them?",
@@ -634,6 +661,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		289219,
 		260463,
 		195670,
 		1523145,
@@ -665,6 +693,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		289219,
 		260463,
 		195670,
 		1523145,
@@ -694,6 +723,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		289219,
 		260463,
 		195670,
 		1523145,
