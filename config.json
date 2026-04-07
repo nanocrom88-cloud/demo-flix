@@ -380,6 +380,27 @@
 		},
 		{
 		
+			"id": 45790,
+			"title": "STEEL BALL RUN",
+			"description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/9gYx3hx09I3OYoynKDXJZLeQkUH.jpg",
+			"poster": "https://m.media-amazon.com/images/M/MV5BNjUwYmY4MmEtMjkwZS00NGU5LWE5NTAtNGQ1ZTQ5NWUwMDExXkEyXkFqcGc@._V1_FMjpg_UY2916_.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "netflix",
+			"season": "season 1",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
+		
 			"id": 241372,
 			"title": "56 Days",
 			"description": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
@@ -715,6 +736,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		45790,
 		76479,
 		202555,
 		289219,
@@ -749,6 +771,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		45790,
 		76479,
 		202555,
 		289219,
@@ -781,6 +804,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		45790,
 		76479,
 		202555,
 		289219,
