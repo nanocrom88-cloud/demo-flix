@@ -657,6 +657,32 @@
 			]
 		},
 		{
+			"id": 100757,
+			"title": "Outer Banks ",
+			"description": "A tight-knit group of teens unearths a long-buried secret, setting off a chain of illicit events that takes them on an adventure they'll never forget.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/tMLH2VDnTpZLYg7T4QPBjaaleVx.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 5",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
 			"id": 111110,
 			"title": "ONE PIECE",
 			"description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
@@ -736,6 +762,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		100757,
 		45790,
 		76479,
 		202555,
@@ -771,6 +798,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		100757,
 		45790,
 		76479,
 		202555,
@@ -804,6 +832,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		100757,
 		45790,
 		76479,
 		202555,
