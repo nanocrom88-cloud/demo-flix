@@ -380,6 +380,33 @@
 		},
 		{
 		
+			"id": 85552,
+			"title": "Euphoria",
+			"description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/oKt4J3TFjWirVwBqoHyIvv5IImd.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 3",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4",
+				"https://popcima.com/images/primevideo.mp4"
+			]
+		},
+		{
+		
 			"id": 45790,
 			"title": "STEEL BALL RUN",
 			"description": " After a fateful encounter with outlaw Gyro Zeppeli, former racing prodigy Johnny Joestar enters the Steel Ball Run, the first horse race across America.",
@@ -762,6 +789,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		85552,
 		100757,
 		45790,
 		76479,
@@ -798,6 +826,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		85552,
 		100757,
 		45790,
 		76479,
@@ -832,6 +861,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		85552,
 		100757,
 		45790,
 		76479,
