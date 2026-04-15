@@ -209,6 +209,22 @@
 			"vidLink": "https://videos-9ds.pages.dev/Universal.mp4"
 		},
 		{
+			"id": 980431,
+			"title": "Avatar: Aang, The Last Airbender",
+			"description": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+			"quality": "4K",
+			"duration": "1h 39m",
+			"rating": "8.0",
+			"genre": "Family, Comedy, Adventure, Romance, Music",
+			"releaseDate": "2026",
+			"director": "Paul Hoen",
+			"cast": "Meg Donnelly, Milo Manheim, Chandler Kinney, Kylee Russell, Freya Skye, Malachi Barton, Julian Lerner, Swayam Bhatia, Mekonnen Knife",
+			"production": "Disney Channel",
+			"vidLink": "https://oncima.com/fmovie/assets/video/regretting-you.mp4"
+		},
+		{
 			"id": 1243341,
 			"title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
 			"description": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
@@ -789,6 +805,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		980431,
 		85552,
 		100757,
 		45790,
@@ -861,6 +878,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		980431,
 		85552,
 		100757,
 		45790,
