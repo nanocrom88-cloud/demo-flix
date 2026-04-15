@@ -726,6 +726,32 @@
 			]
 		},
 		{
+			"id": 37540875,
+			"title": "Roommates",
+			"description": "When a hopeful, naive college freshman, Devon, asks the cool and confident Celeste to be her roommate, a blossoming friendship spirals into a war of passive aggression.",
+			"thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI1NjE4MTQtYTk1MS00NDM4LTlmZTctYzczNDg4MjM4OTZmXkEyXkFqcGc@._V1_FMjpg_UX1280_.jpg",
+			"poster": "https://m.media-amazon.com/images/M/MV5BYjk2YmRhNTItOGY5Ni00MjgwLTk4ZGMtMzE0MTQzMmMxYWRlXkEyXkFqcGc@._V1_FMjpg_UY2222_.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "drama",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 1",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+			]
+		},
+		{
 			"id": 111110,
 			"title": "ONE PIECE",
 			"description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
@@ -805,6 +831,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		37540875,
 		980431,
 		85552,
 		100757,
@@ -878,6 +905,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		37540875,
 		980431,
 		85552,
 		100757,
