@@ -778,6 +778,32 @@
 			]
 		},
 		{
+			"id": 124364,
+			"title": "FROM ",
+			"description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/1RdC0xql5PNZZGr71LzJ5Ipvn08.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 4",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4",
+				"https://popcima.com/images/universal.mp4"
+			]
+		},
+		{
 			"id": 95557,
 			"title": "Invincible ",
 			"description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
@@ -831,6 +857,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		124364,
 		37540875,
 		980431,
 		85552,
@@ -870,6 +897,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		124364,
 		85552,
 		100757,
 		45790,
@@ -905,6 +933,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		124364,
 		37540875,
 		980431,
 		85552,
