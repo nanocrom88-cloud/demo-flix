@@ -33,6 +33,22 @@
 			"vidLink": "https://popcima.com/images/netflix.mp4"
 		},
 		{
+			"id": 931285,
+			"title": "Mortal Kombat II",
+			"description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/1u7uliaQfBhe07zWcFfAhU1rdPN.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2026",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/netflix.mp4"
+		},
+		{
 			"id": 1523145,
 			"title": "Your Heart Will Be Broken",
 			"description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
@@ -857,6 +873,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		931285,
 		124364,
 		95557,
 		37540875,
@@ -897,6 +914,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		931285,
 		124364,
 		85552,
 		95557,
@@ -933,6 +951,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		931285,
 		124364,
 		37540875,
 		95557,
