@@ -912,6 +912,13 @@
             });
             
             myPlayer.paused();
+
+            // Go fullscreen immediately when user clicks play
+            myPlayer.on('play', function() {
+                if (!myPlayer.isFullscreen()) {
+                    myPlayer.requestFullscreen();
+                }
+            });
             
             // Mobile touch support - tap video to play/pause
             myPlayer.ready(function() {
