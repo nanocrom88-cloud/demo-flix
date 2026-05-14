@@ -847,6 +847,32 @@
 			]
 		},
 		{
+			"id": 235930,
+			"title": "Devil May Cry",
+			"description": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the world's best hope for salvation.z",
+			"thumbnail": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.4",
+			"genre": "action",
+			"releaseDate": "2026",
+			"director": "N/A",
+			"cast": "N/A",
+			"production": "netflix",
+			"season": "season 2",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4",
+				"https://popcima.com/images/paramount.mp4"
+			]
+		},
+		{
 			"id": 95557,
 			"title": "Invincible ",
 			"description": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shortly after his seventeenth birthday, Mark begins to develop powers of his own and enters into his father’s tutelage.",
@@ -862,14 +888,14 @@
 			"production": "netflix",
 			"season": "season 4",
 			"seasonEpisodesVids": [
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4",
-				"https://popcima.com/images/primevideo.mp4"
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
 			]
 		},
 		{
@@ -900,6 +926,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		235930,
 		931285,
 		273240,
 		124364,
@@ -918,6 +945,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		235930,
 		931285,
 		273240,
 		124364,
@@ -956,6 +984,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		235930,
 		931285,
 		124364,
 		273240,
