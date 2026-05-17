@@ -33,6 +33,22 @@
 			"vidLink": "https://popcima.com/images/netflix.mp4"
 		},
 		{
+			"id": 1339713,
+			"title": "Obsession",
+			"description": " After breaking the mysterious One Wish Willow to win his crushs heart a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark sinister price ",
+			"thumbnail": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/7BYIUIrpdSkz89DTkY5NhaP9Mf5.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2025",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/paramount.mp4"
+		},
+		{
 			"id": 931285,
 			"title": "Mortal Kombat II",
 			"description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
@@ -926,6 +942,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		1339713,
 		235930,
 		931285,
 		273240,
@@ -945,6 +962,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		1339713,
 		235930,
 		931285,
 		273240,
@@ -984,6 +1002,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		1339713,
 		235930,
 		931285,
 		124364,
