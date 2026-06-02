@@ -498,6 +498,35 @@
 		},
 		{
 		
+			"id": 261145,
+			"title": "The Amazing Digital Circus",
+			"description": "A woman finds herself trapped in a virtual circus where she and five other humans are subject to the whims of a wacky AI ringmaster. In this digital purgatory they must face frightening NPCs and cope with their own personal traumas.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/fgd0KrPJLsTG3NRsbu6VbC46MOV.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 1",
+			"seasonEpisodesVids": [
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4",
+				"https://popcima.com/images/netflix.mp4"
+
+			]
+		},
+		{
+		
 			"id": 45790,
 			"title": "STEEL BALL RUN",
 			"description": " After a fateful encounter with outlaw Gyro Zeppeli, former racing prodigy Johnny Joestar enters the Steel Ball Run, the first horse race across America.",
@@ -959,6 +988,7 @@
 	],
 	"HomeSliderIds": [
 		1083381,
+		261145,
 		1339713,
 		235930,
 		931285,
@@ -980,6 +1010,7 @@
 	],
 	"TrendingNowIds": [
 		1083381,
+		261145,
 		1339713,
 		235930,
 		931285,
@@ -1021,6 +1052,7 @@
 	],
 	"RecommendedIds": [
 		1083381,
+		261145,
 		1339713,
 		235930,
 		931285,
