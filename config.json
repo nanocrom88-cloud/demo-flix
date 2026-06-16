@@ -97,6 +97,22 @@
 			"vidLink": "https://popcima.com/images/universal.mp4"
 		},
 		{
+			"id": 1477317,
+			"title": "Your Fault: London",
+			"description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/8DtjO5hpW5hfU0kDUlmYe31w4VS.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/nLxu237EJAisFCYKK48hN9Plobx.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2026",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/primevideo.mp4"
+		},
+		{
 			"id": 1523145,
 			"title": "Your Heart Will Be Broken",
 			"description": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
@@ -111,6 +127,22 @@
 			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
 			"production": "Paramount Pictures",
 			"vidLink": "https://popcima.com/images/primevideo.mp4"
+		},
+		{
+			"id": 1084244,
+			"title": "Toy Story 5",
+			"description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+			"quality": "4K",
+			"duration": "2h 50m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2025",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/images/disney.mp4"
 		},
 		{
 			"id": 1266127,
@@ -1030,6 +1062,8 @@
 		}
 	],
 	"HomeSliderIds": [
+		1084244,
+		1477317,
 		1083381,
 		260592,
 		261145,
@@ -1054,6 +1088,8 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		1084244,
+		1477317,
 		1083381,
 		260592,
 		261145,
@@ -1098,6 +1134,8 @@
 		1243341
 	],
 	"RecommendedIds": [
+		1084244,
+		1477317,
 		1083381,
 		260592,
 		261145,
