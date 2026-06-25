@@ -492,6 +492,26 @@
 		},
 		{
 		
+			"id": 30984,
+			"title": "bleach Thousand-Year Blood War ",
+			"description": "The final arc of the Bleach series, where Ichigo Kurosaki and the Soul Reapers face off against the powerful Quincy army, led by Yhwach, in a battle that threatens the balance of all worlds.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/pShnxXXD1CrHyLbbTu8nAaLczHP.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/xAiiPhRm1zOyPwBLjcA2RsFtG8G.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 5",
+			"seasonEpisodesVids": [
+				"https://popcima.com/primevideo.mp4"
+			]
+		},
+		{
+		
 			"id": 85552,
 			"title": "Euphoria",
 			"description": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
@@ -1062,6 +1082,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		30984,
 		1084244,
 		1477317,
 		1083381,
@@ -1088,6 +1109,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		30984,
 		1084244,
 		1477317,
 		1083381,
@@ -1134,6 +1156,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		30984,
 		1084244,
 		1477317,
 		1083381,
