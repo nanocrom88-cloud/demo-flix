@@ -33,6 +33,22 @@
 			"vidLink": "https://popcima.com/netflix.mp4"
 		},
 		{
+			"id": 1669841,
+			"title": "Bleach: Thousand-Year Blood War - The Calamity",
+			"description": "The Soul Reapers and Quincies clash in a final battle as Yhwach breaches the Royal Palace. When the Soul King falls, reality begins collapsing. Former enemies unite to storm the transformed palace and face a threat to all existence. A theatrical screening of the first three episodes of the anime featuring an exclusive behind‑the‑scenes conversation with creator Tite Kubo, chief series director Tomohisa Taguchi, and series director Hikaru Murata about the production.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/pShnxXXD1CrHyLbbTu8nAaLczHP.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg",
+			"quality": "4K",
+			"duration": "1h 20m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2026",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://popcima.com/aniplex.mp4"
+		},
+		{
 			"id": 1339713,
 			"title": "Obsession",
 			"description": " After breaking the mysterious One Wish Willow to win his crushs heart a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark sinister price ",
@@ -1082,7 +1098,7 @@
 		}
 	],
 	"HomeSliderIds": [
-		30984,
+		1669841,
 		1084244,
 		1477317,
 		1083381,
@@ -1109,7 +1125,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
-		30984,
+		1669841,
 		1084244,
 		1477317,
 		1083381,
@@ -1156,7 +1172,7 @@
 		1243341
 	],
 	"RecommendedIds": [
-		30984,
+		1669841,
 		1084244,
 		1477317,
 		1083381,
