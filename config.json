@@ -767,6 +767,33 @@
 		},
 		{
 		
+			"id": 324434,
+			"title": "Soy Luna: Let's Roll Again ",
+			"description": "After an accident that sidelined her, Luna returns to her beloved Jam & Roller. Putting on her skates again won't be easy, especially when a hidden villain's plan starts to complicate her life. She'll also face a dilemma, torn between old flames. Amidst songs, adventures, and reunions with friends, Luna will have to overcome many obstacles to fulfill her dream.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/sKW1g98CFyb0bzRgefFtsAKtlwQ.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/bxVoTkGOLPYqjA4sAcxPMgspDSz.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "Amazon Studios",
+			"season": "season 4",
+			"seasonEpisodesVids": [
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4",
+				"https://popcima.com/disney.mp4"
+			]
+		},
+		{
+		
 			"id": 260463,
 			"title": "Daemons of the Shadow Realm",
 			"description": " Yuru, a young hunter, lives in a small village deep in the mountains, hunting wild game and leading a humble life with Asa, his younger twin sister. Their peaceful lives are torn apart when a dragon’s roar echoes across the sky. What secrets lurk within their village? What fate awaits them?",
@@ -1172,6 +1199,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		324434,
 		1669841,
 		1084244,
 		1477317,
