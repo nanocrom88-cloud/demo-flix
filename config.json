@@ -17,6 +17,22 @@
 			"vidLink": "https://videos-9ds.pages.dev/Universal.mp4"
 		},
 		{
+			"id": 969681,
+			"title": "Spider-Man: Brand New Day",
+			"description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/riY64HjYQwDnFOVnESlnmwagfi8.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+			"quality": "4K",
+			"duration": "2h 25m",
+			"rating": "7.2",
+			"genre": "Action, Adventure, Thriller",
+			"releaseDate": "2026",
+			"director": "Christopher McQuarrie",
+			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"production": "Paramount Pictures",
+			"vidLink": "https://streamaio.com/intros/Marvel-Studios.mp4"
+		},
+		{
 			"id": 875828,
 			"title": "Peaky Blinders: The Immortal Man",
 			"description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
@@ -1125,6 +1141,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		969681,
 		1669841,
 		1084244,
 		1477317,
@@ -1199,6 +1216,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		969681,
 		324434,
 		1669841,
 		1084244,
