@@ -1,34 +1,18 @@
 {
 	"Movies": [
 		{
-			"id": 575265,
-			"title": "Mission: Impossible - The Final Reckoning",
-			"description": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-			"thumbnail": "https://image.tmdb.org/t/p/original/xPNDRM50a58uvv1il2GVZrtWjkZ.jpg",
-			"poster": "https://image.tmdb.org/t/p/w342/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
-			"quality": "4K",
-			"duration": "2h 50m",
-			"rating": "7.2",
-			"genre": "Action, Adventure, Thriller",
-			"releaseDate": "2025",
-			"director": "Christopher McQuarrie",
-			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
-			"production": "Paramount Pictures",
-			"vidLink": "https://videos-9ds.pages.dev/Universal.mp4"
-		},
-		{
 			"id": 969681,
 			"title": "Spider-Man: Brand New Day",
 			"description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-			"thumbnail": "https://image.tmdb.org/t/p/original/riY64HjYQwDnFOVnESlnmwagfi8.jpg",
-			"poster": "https://image.tmdb.org/t/p/w1280/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-			"quality": "4K",
+			"thumbnail": "https://image.tmdb.org/t/p/original/5glivQffWJkRJttJ5g5LW14kmeC.jpg",
+			"poster": "https://image.tmdb.org/t/p/w1280/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+			"quality": "2K",
 			"duration": "2h 25m",
-			"rating": "7.2",
+			"rating": "8.2",
 			"genre": "Action, Adventure, Thriller",
 			"releaseDate": "2026",
-			"director": "Christopher McQuarrie",
-			"cast": "Tom Cruise, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
+			"director": "Destin Daniel Cretton",
+			"cast": "Tom Holland, Hayley Atwell, Ving Rhames, Simon Pegg, Esai Morales, Pom Klementieff",
 			"production": "Paramount Pictures",
 			"vidLink": "https://streamaio.com/intros/Marvel-Studios.mp4"
 		},
@@ -1169,6 +1153,7 @@
 		1243341
 	],
 	"TrendingNowIds": [
+		969681,
 		1669841,
 		1084244,
 		1477317,
