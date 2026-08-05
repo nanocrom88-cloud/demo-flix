@@ -481,6 +481,33 @@
 		},
 		{
 		
+			"id": 199001,
+			"title": "My Life with the Walter Boys",
+			"description": " When a tragedy disrupts her life, a teen moves in with her guardian's big family in a small town and learns new lessons about love, hope and friendship.",
+			"thumbnail": "https://image.tmdb.org/t/p/original/iHkhfW4NDVD9vrKHgUypLyFcOos.jpg",
+			"poster": "https://image.tmdb.org/t/p/original/4JSVHfc1x2zoROQKRIaKJ6CWZGr.jpg",
+			"quality": "HD",
+			"duration": "N/A",
+			"rating": "8.2",
+			"genre": "Drama",
+			"releaseDate": "2026",
+			"director": "Karen Rosenfelt",
+			"cast": "Lola Tung, Christopher Briney, Gavin Casalegno, Sean Kaufman, Rain Spencer, Jackie Chung",
+			"production": "netflix Studios",
+			"season": "season 3",
+			"seasonEpisodesVids": [
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4",
+				"https://popcima.com/netflix.mp4"
+			]
+		},
+		{
+		
 			"id": 76479,
 			"title": "The Boys",
 			"description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
@@ -1125,6 +1152,7 @@
 		}
 	],
 	"HomeSliderIds": [
+		199001,
 		969681,
 		1669841,
 		1084244,
@@ -1201,6 +1229,7 @@
 		1243341
 	],
 	"RecommendedIds": [
+		199001,
 		969681,
 		324434,
 		1669841,
